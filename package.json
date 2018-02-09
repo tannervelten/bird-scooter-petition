@@ -9,5 +9,19 @@
     "meteor-node-stubs": "^0.3.2",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
-  }
+  },
+  "version": "1.0.0",
+  "main": "/client/main.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tannervelten/bird-scooter-petition.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tannervelten/bird-scooter-petition/issues"
+  },
+  "homepage": "https://github.com/tannervelten/bird-scooter-petition#readme",
+  "description": ""
 }
